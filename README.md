@@ -4,16 +4,16 @@ I'm Machine Learning Engineer in :jp:
 <h2>GitHub</h2>
 <table align="center">
   <tr>
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sea-turt1e&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;line_height=28" alt="sea-turt1e's GitHub stats" />
-    </td>
+    </td> -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sea-turt1e&amp;theme=tokyonight&amp;langs_count=10&amp;hide=jupyter%20notebook&amp;layout=donut" alt="Top Langs" />
     </td>
-  </tr>
-  <tr>
+  <!-- </tr>
+  <tr> -->
     <td colspan="2" style="text-align:center;">
-      <img src="https://github-profile-trophy.vercel.app/?username=sea-turt1e&amp;rank=-C,-B&amp;theme=onedark" alt="trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=sea-turt1e&amp;rank=-C,-B&amp;&row=2&amp;column=3&amp;theme=onedark" alt="trophy" />
     </td>
   </tr>
 </table>
