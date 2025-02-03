@@ -10,8 +10,10 @@ I'm Machine Learning Engineer in Japan :jp:
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sea-turt1e&amp;theme=tokyonight&amp;langs_count=10&amp;hide=jupyter%20notebook&amp;layout=donut" alt="Top Langs" />
     </td>
+  </tr>
+  <tr>
     <td colspan="2" style="text-align:center;">
-      <img src="https://github-profile-trophy.vercel.app/?username=sea-turt1e&amp;rank=-C,-B&amp;&row=3&amp;column=2&amp;theme=onedark" alt="trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=sea-turt1e&amp;rank=-C,-B&amp;theme=onedark" alt="trophy" />
     </td>
   </tr>
 </table>
