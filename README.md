@@ -1,5 +1,5 @@
 # My Profile
-I'm Machine Learning Engineer in :jp:
+I'm Machine Learning Engineer in Japan :jp:
 
 <h2>GitHub</h2>
 <table align="center">
