@@ -8,7 +8,7 @@ I'm Machine Learning Engineer in Japan :jp:
       <img src="https://github-readme-stats.vercel.app/api?username=sea-turt1e&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;line_height=28&amp;layout=compact" alt="sea-turt1e's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sea-turt1e&amp;theme=tokyonight&amp;langs_count=10&amp;hide=jupyter%20notebook&amp;layout=donut" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sea-turt1e&amp;theme=tokyonight&amp;langs_count=10&amp;hide=jupyter%20notebook&amp;layout=compact" alt="Top Langs" />
     </td>
   </tr>
   <tr>
