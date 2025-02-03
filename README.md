@@ -1,10 +1,14 @@
 # My Profile
 I'm Machine Learning Engineer in :jp:
 
-## GitHub
-![sea-turt1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=sea-turt1e&show_icons=true&count_private=true&theme=tokyonight&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sea-turt1e&theme=tokyonight&langs_count=10&hide=jupyter%20notebook&layout=donut)
-![trophy](https://github-profile-trophy.vercel.app/?username=sea-turt1e&rank=-C,-B&theme=onedark)
+<h2>GitHub</h2>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sea-turt1e&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;line_height=28" alt="sea-turt1e's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sea-turt1e&amp;theme=tokyonight&amp;langs_count=10&amp;hide=jupyter%20notebook&amp;layout=donut" alt="Top Langs" /></td>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=sea-turt1e&amp;rank=-C,-B&amp;theme=onedark" alt="trophy" /></td>
+  </tr>
+</table>
 
 ## Skills
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
