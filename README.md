@@ -43,22 +43,22 @@ I'm Machine Learning Engineer in Japan :jp:
 </table>
 
 ## Portfolio Site
-- ![sea-turt1e's Portfolio](https://sea-turt1e.github.io/)
+- [sea-turt1e's Portfolio](https://sea-turt1e.github.io/)
 
 ## Blog
 ### Written in Japanese
-- ![Zenn](https://zenn.dev/sea_turt1e)
+- [Zenn](https://zenn.dev/sea_turt1e)
 
 ### Written in English
-- ![dev.to](https://dev.to/seaturt1e)
+- [dev.to](https://dev.to/seaturt1e)
 
 ## GitHub Repository
 ### Graph Neural Network
-- ![NBANetwork](https://github.com/sea-turt1e/NBANetwork)  
+- [NBANetwork](https://github.com/sea-turt1e/NBANetwork)  
 NBA Network Analysis and Machine Learning
 
 ### NLP
-- ![kanjiconv](https://github.com/sea-turt1e/kanjiconv)  
+- [kanjiconv](https://github.com/sea-turt1e/kanjiconv)  
 Kanji Converter to Hiragana, Katakana, Romaji
-- ![yurenizer](https://github.com/sea-turt1e/yurenizer)  
+- [yurenizer](https://github.com/sea-turt1e/yurenizer)  
 Japanese text normalizer that resolves spelling inconsistencies. 
