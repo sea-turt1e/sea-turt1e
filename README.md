@@ -53,12 +53,25 @@ I'm Machine Learning Engineer in Japan :jp:
 - [dev.to](https://dev.to/seaturt1e)
 
 ## GitHub Repository
-### Graph Neural Network
-- [NBANetwork](https://github.com/sea-turt1e/NBANetwork)  
-NBA Network Analysis and Machine Learning
-
-### NLP
+### NLP Library
 - [kanjiconv](https://github.com/sea-turt1e/kanjiconv)  
 Kanji Converter to Hiragana, Katakana, Romaji
 - [yurenizer](https://github.com/sea-turt1e/yurenizer)  
 Japanese text normalizer that resolves spelling inconsistencies. 
+
+### Graph Neural Network
+- [NBANetwork](https://github.com/sea-turt1e/NBANetwork)  
+NBA Network Analysis and Machine Learning
+
+### Backend Implementation
+- [yurenizer_backend](https://github.com/sea-turt1e/yurenizer_backend)  
+Backend of yurenizer for publishing as a web service.
+
+### Frontend Implementation
+- [yurenizer_frontend](https://github.com/sea-turt1e/yurenizer_frontend)  
+Frontend of yurenizer for publishing as a web service.
+
+### Sample Code
+- [aws-sdk-go-v2-example](https://github.com/sea-turt1e/aws-sdk-go-v2-example)  
+Example Code of aws-sdk-go-v2
+
