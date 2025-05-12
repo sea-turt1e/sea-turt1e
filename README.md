@@ -16,6 +16,13 @@ I'm Machine Learning Engineer in Japan :jp:
       <img src="https://github-profile-trophy.vercel.app/?username=sea-turt1e&amp;rank=-C,-B&amp;theme=onedark" alt="trophy" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" style="text-align:left;">
+      <a href="https://www.credly.com/badges/c6bb5a04-378b-4fe2-a5a4-12b86c063382">
+        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certification Badge" width="150" />
+      </a>
+    </td>
+  </tr>
     <tr>
     <td colspan="2" style="text-align:center;">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
