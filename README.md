@@ -17,9 +17,9 @@ I'm Machine Learning Engineer in Japan :jp:
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align:left;">
-      <a href="https://www.credly.com/badges/c6bb5a04-378b-4fe2-a5a4-12b86c063382">
-        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certification Badge" width="150" />
+    <td colspan="2" style="text-align:center;">
+      <a href="https://www.credly.com/badges/c6bb5a04-378b-4fe2-a5a4-12b86c063382/public_url">
+        <img src="./images/aws-certified-machine-learning-specialty.png" alt="AWS Certification" width="100" height="100"/>
       </a>
     </td>
   </tr>
@@ -49,8 +49,10 @@ I'm Machine Learning Engineer in Japan :jp:
     </tr>
 </table>
 
-## Portfolio Site
+## Portfolio
 - [sea-turt1e's Portfolio](https://sea-turt1e.github.io/)
+## dotfile
+- [sea-turt1e/dotfiles](https://github.com/sea-turt1e/dotfiles)
 
 ## Blog
 ### Written in Japanese
@@ -59,26 +61,12 @@ I'm Machine Learning Engineer in Japan :jp:
 ### Written in English
 - [dev.to](https://dev.to/seaturt1e)
 
-## GitHub Repository
-### NLP Library
+## Graph Neural Network
+- [NBANetwork](https://github.com/sea-turt1e/NBANetwork)  
+NBA Network Analysis and Machine Learning
+
+## NLP
 - [kanjiconv](https://github.com/sea-turt1e/kanjiconv)  
 Kanji Converter to Hiragana, Katakana, Romaji
 - [yurenizer](https://github.com/sea-turt1e/yurenizer)  
 Japanese text normalizer that resolves spelling inconsistencies. 
-
-### Graph Neural Network
-- [NBANetwork](https://github.com/sea-turt1e/NBANetwork)  
-NBA Network Analysis and Machine Learning
-
-### Backend Implementation
-- [yurenizer_backend](https://github.com/sea-turt1e/yurenizer_backend)  
-Backend of yurenizer for publishing as a web service.
-
-### Frontend Implementation
-- [yurenizer_frontend](https://github.com/sea-turt1e/yurenizer_frontend)  
-Frontend of yurenizer for publishing as a web service.
-
-### Sample Code
-- [aws-sdk-go-v2-example](https://github.com/sea-turt1e/aws-sdk-go-v2-example)  
-Example Code of aws-sdk-go-v2
-
