@@ -1,5 +1,7 @@
 # My Profile
 I'm Machine Learning Engineer in Japan :jp:
+## My Portfolio
+[sea-turt1e's Portfolio](https://sea-turt1e.github.io/)
 
 <h2>Skills</h2>
 <table align="center">
@@ -49,8 +51,6 @@ I'm Machine Learning Engineer in Japan :jp:
     </tr>
 </table>
 
-## Portfolio
-- [sea-turt1e's Portfolio](https://sea-turt1e.github.io/)
 ## dotfile
 - [sea-turt1e/dotfiles](https://github.com/sea-turt1e/dotfiles)
 
