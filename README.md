@@ -1,8 +1,29 @@
 # My Profile
 I'm Machine Learning Engineer in Japan :jp:
 
+## Portfolio Site
+[sea-turt1e's Portfolio](https://sea-turt1e.github.io/)
+
+<!-- ## GitHub Profile
+<p align="left">
+  <a href="https://github.com/sea-turt1e">
+    <img height="20" src="https://komarev.com/ghpvc/?username=sea-turt1e" />
+  </a>
+  <a href="https://github.com/sea-turt1e">
+    <img height="20" src="https://img.shields.io/github/followers/sea-turt1e?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://zenn.dev/sea_turt1e">
+    <img height="20" src="https://badgen.org/img/zenn/sea_turt1e/articles?style=plastic" />
+  </a>
+</p> -->
+
 <h2>Skills</h2>
 <table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details&amp;username=sea-turt1e&amp;theme=gruvbox" alt="general status" />
+    </td>
+  </tr>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sea-turt1e&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;line_height=28&amp;layout=compact" alt="sea-turt1e's GitHub stats" />
@@ -42,9 +63,6 @@ I'm Machine Learning Engineer in Japan :jp:
     </tr>
 </table>
 
-## Portfolio Site
-- [sea-turt1e's Portfolio](https://sea-turt1e.github.io/)
-
 ## Blog
 ### Written in Japanese
 - [Zenn](https://zenn.dev/sea_turt1e)
@@ -52,7 +70,7 @@ I'm Machine Learning Engineer in Japan :jp:
 ### Written in English
 - [dev.to](https://dev.to/seaturt1e)
 
-## GitHub Repository
+<!-- ## GitHub Repository
 ### NLP Library
 - [kanjiconv](https://github.com/sea-turt1e/kanjiconv)  
 Kanji Converter to Hiragana, Katakana, Romaji
@@ -73,5 +91,5 @@ Frontend of yurenizer for publishing as a web service.
 
 ### Sample Code
 - [aws-sdk-go-v2-example](https://github.com/sea-turt1e/aws-sdk-go-v2-example)  
-Example Code of aws-sdk-go-v2
+Example Code of aws-sdk-go-v2 -->
 
