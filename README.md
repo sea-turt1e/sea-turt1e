@@ -17,11 +17,11 @@ I'm Machine Learning Engineer in Japan :jp:
   </a>
 </p> -->
 
-<h2>Skills</h2>
+<h2>GitHub Status</h2>
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details&amp;username=sea-turt1e&amp;theme=gruvbox" alt="general status" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sea-turt1e&theme=tokyonight" alt="general status" />
     </td>
   </tr>
   <tr>
