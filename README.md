@@ -1,10 +1,30 @@
 # My Profile
-I'm Machine Learning Engineer in Japan :jp:
-## My Portfolio
+I'm Machine Learning Engineer in Japan :jp:  
+I specialize in NLP, and recently I've been exploring graph networks.
+
+## Portfolio Site
 [sea-turt1e's Portfolio](https://sea-turt1e.github.io/)
 
-<h2>Skills</h2>
+<!-- ## GitHub Profile
+<p align="left">
+  <a href="https://github.com/sea-turt1e">
+    <img height="20" src="https://komarev.com/ghpvc/?username=sea-turt1e" />
+  </a>
+  <a href="https://github.com/sea-turt1e">
+    <img height="20" src="https://img.shields.io/github/followers/sea-turt1e?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://zenn.dev/sea_turt1e">
+    <img height="20" src="https://badgen.org/img/zenn/sea_turt1e/articles?style=plastic" />
+  </a>
+</p> -->
+
+<!-- <h2>GitHub Status</h2>
 <table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sea-turt1e&theme=tokyonight" alt="general status" />
+    </td>
+  </tr>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sea-turt1e&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;line_height=28&amp;layout=compact" alt="sea-turt1e's GitHub stats" />
@@ -16,13 +36,6 @@ I'm Machine Learning Engineer in Japan :jp:
   <tr>
     <td colspan="2" style="text-align:center;">
       <img src="https://github-profile-trophy.vercel.app/?username=sea-turt1e&amp;rank=-C,-B&amp;theme=onedark" alt="trophy" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:center;">
-      <a href="https://www.credly.com/badges/c6bb5a04-378b-4fe2-a5a4-12b86c063382/public_url">
-        <img src="./images/aws-certified-machine-learning-specialty.png" alt="AWS Certification" width="100" height="100"/>
-      </a>
     </td>
   </tr>
     <tr>
@@ -49,10 +62,7 @@ I'm Machine Learning Engineer in Japan :jp:
         <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
     </td>
     </tr>
-</table>
-
-## dotfile
-- [sea-turt1e/dotfiles](https://github.com/sea-turt1e/dotfiles)
+</table> -->
 
 ## Blog
 ### Written in Japanese
@@ -61,12 +71,26 @@ I'm Machine Learning Engineer in Japan :jp:
 ### Written in English
 - [dev.to](https://dev.to/seaturt1e)
 
-## Graph Neural Network
-- [NBANetwork](https://github.com/sea-turt1e/NBANetwork)  
-NBA Network Analysis and Machine Learning
-
-## NLP
+<!-- ## GitHub Repository
+### NLP Library
 - [kanjiconv](https://github.com/sea-turt1e/kanjiconv)  
 Kanji Converter to Hiragana, Katakana, Romaji
 - [yurenizer](https://github.com/sea-turt1e/yurenizer)  
 Japanese text normalizer that resolves spelling inconsistencies. 
+
+### Graph Neural Network
+- [NBANetwork](https://github.com/sea-turt1e/NBANetwork)  
+NBA Network Analysis and Machine Learning
+
+### Backend Implementation
+- [yurenizer_backend](https://github.com/sea-turt1e/yurenizer_backend)  
+Backend of yurenizer for publishing as a web service.
+
+### Frontend Implementation
+- [yurenizer_frontend](https://github.com/sea-turt1e/yurenizer_frontend)  
+Frontend of yurenizer for publishing as a web service.
+
+### Sample Code
+- [aws-sdk-go-v2-example](https://github.com/sea-turt1e/aws-sdk-go-v2-example)  
+Example Code of aws-sdk-go-v2 -->
+
